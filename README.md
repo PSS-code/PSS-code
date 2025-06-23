@@ -1,16 +1,15 @@
-## hello world
+<p align="left">Hello World<br>PSS-code — Beyond Code, Creating Meaning.<br>A meeting point of technology and education, where the human spirit strives to overcome itself, and every line of code becomes a step toward the Übermensch.</p>
 
-<!--
-**PSS-code/PSS-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/PSS-code/PSS-code/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSS-code/PSS-code/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSS-code/PSS-code/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PSS-code/PSS-code/output/pacman-contribution-graph.svg">
+</picture>
+
+###
